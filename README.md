@@ -31,7 +31,7 @@ Skills: REACT / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/MillatSakib)  
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
 
 <p align="left">
