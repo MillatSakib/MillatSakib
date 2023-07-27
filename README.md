@@ -29,7 +29,7 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MillatSakib)  
 
-![Profile views](https://gpvc.arturio.dev/MillatSakib)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMillatSakib&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors%28Today%2FTotal%29&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
